@@ -2,7 +2,7 @@
 
 - Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP**
 - Futuro Programador Back-end
-- Aqui estão meus projetos **[Não todos]**
+- Aqui estão meus projetos **[Não todos, ainda estou atualizando!]**
 
 <div style="display: inline_block"><br>
   <img align="center" alt="" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
