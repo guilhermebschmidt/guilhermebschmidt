@@ -1,7 +1,6 @@
 ## Olá, sou o Guilherme Bittencourt Schmidt 👋
 
 - Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP**
-- Futuro Programador Back-end
 - Aqui estão meus projetos **//["Não todos, ainda estou atualizando!"]**
 
 <div style="display: inline_block"><br>
