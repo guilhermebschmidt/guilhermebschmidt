@@ -1,6 +1,6 @@
 ## Olá, sou o Guilherme Bittencourt Schmidt 👋
 
-- Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP**
+- Sou formado em **Análise e Desenvolvimento de Sistemas** no **IFSP**
 - Aqui estão meus projetos **//["Não todos, ainda estou atualizando!"]**
 
 <div style="display: inline_block"><br>
